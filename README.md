@@ -1,6 +1,6 @@
 # tutil
 
-A Clojure library designed to ... well, that part is up to you.
+Some Clojure util functions
 
 ## Usage
 
