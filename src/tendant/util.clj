@@ -4,4 +4,7 @@
   "Return true for all truthy value `s`"
   [s]
   (if s
-    (#{"true" "True" "TRUE" true} s)))
+    (if (#{"true" "True" "TRUE" true} s)
+      true
+      false)
+    false))
