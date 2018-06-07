@@ -1,4 +1,4 @@
-(defproject tendant/tutil "0.1.3-SNAPSHOT"
+(defproject tendant/tutil "0.1.3"
   :description "Some Clojure util functions"
   :url "https://github.com/tendant/tutil"
   :license {:name "Eclipse Public License"
