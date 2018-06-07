@@ -1,4 +1,5 @@
-(ns tendant.util)
+(ns tendant.util
+  (:require [clojure.walk :as walk]))
 
 (defn truthy?
   "Return true for all truthy value `s`"
